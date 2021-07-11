@@ -1,0 +1,17 @@
+com/zopaukrate/task/exception/InvalidLendersFileException.class
+com/zopaukrate/task/UserInput.class
+com/zopaukrate/task/logic/QuoteCalculatorImpl.class
+com/zopaukrate/task/model/Lender.class
+com/zopaukrate/task/logic/QuotePrinter.class
+com/zopaukrate/task/logic/ConsoleQuotePrinter.class
+com/zopaukrate/task/model/Amount.class
+com/zopaukrate/task/model/ScaledAmount.class
+com/zopaukrate/task/exception/InvalidUserInputException.class
+com/zopaukrate/task/QuoteEntryPoint.class
+com/zopaukrate/task/logic/LendersFileProcessor.class
+com/zopaukrate/task/model/LoanAmount.class
+com/zopaukrate/task/logic/QuoteCalculator.class
+com/zopaukrate/task/exception/InvalidIncrementException.class
+com/zopaukrate/task/exception/InvalidAmountRangeException.class
+com/zopaukrate/task/model/Quote.class
+com/zopaukrate/task/ZopaRateApplication.class
